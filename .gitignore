@@ -1,0 +1,8 @@
+
+# Excluded folders
+.vs/
+[Bb]in*/
+[Ii]nterm*/
+[Oo]bj/
+[Pp]roperties/
+
